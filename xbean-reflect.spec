@@ -3,7 +3,6 @@
 # really do not know what it is).
 # - Try to recompile it (?)
 #
-%include	/usr/lib/rpm/macros.java
 Summary:	XBean reflection
 Name:		xbean-reflect
 Version:	3.4.3
